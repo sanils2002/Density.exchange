@@ -36,7 +36,7 @@ const Home = () => {
      mt={"-20"}
   >
 
-  XCryto
+  Coin Junction
   </Text>
    </Box>
   )
