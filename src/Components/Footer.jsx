@@ -14,7 +14,7 @@ export const Footer = () => {
 <VStack w={"full"} alignItems={["center","flex-start"]}>
 
     <Text fontWeight={"bold"}> About Us</Text>
-    <Text fontSize={"sm"} letterSpacing={"widest"} textAlign={["center","left"]}>We are the best crypto trading app</Text>
+    <Text fontSize={"sm"} letterSpacing={"widest"} textAlign={["center","left"]}>We are the best coin exchange trading app</Text>
 </VStack>
     <VStack>
         <Avatar boxSize={"28"} mt={["4","0"]}/>
